@@ -1,0 +1,2338 @@
+[
+	{
+		"Devices": "HTC Desire 20+",
+		"Models": "HTCDesire20plus",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A11S PDVM00",
+		"Models": "A11s",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A32 PDVM00",
+		"Models": "A32",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A33 CPH2137",
+		"Models": "A33",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A33F NEO 7",
+		"Models": "A33f",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A37F NEO 9",
+		"Models": "A37",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A3S CPH1803",
+		"Models": "A3S",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "OPPO A51W MIRROR 5",
+		"Models": "A51w",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A53 CPH2127",
+		"Models": "A53",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A53S CPH2135",
+		"Models": "A53s_UFS",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A53S CPH2139",
+		"Models": "A53s",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A57 CPH1701",
+		"Models": "A57",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A73 CPH2099",
+		"Models": "A73",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A74 CPH2219",
+		"Models": "A74",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A76 CPH2375",
+		"Models": "A76",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A95 CPH2365",
+		"Models": "A95",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO A96 CPH2333",
+		"Models": "A96",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO F1 F1FW",
+		"Models": "F1",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO F17 CPH2095",
+		"Models": "F17",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO F19 CPH2219",
+		"Models": "F19",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO F19S CPH2223",
+		"Models": "F19s",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO F3 PLUS CPH1611",
+		"Models": "F3p",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO FIND X2 LITE CPH2005",
+		"Models": "FINX2LITE",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO FIND X2 NEO CPH2009",
+		"Models": "FINX2NEO",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO FIND X5 PRO CPH2305",
+		"Models": "FINX5PRO",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO K9S PERM 10",
+		"Models": "K9s",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO R9S CPH1607",
+		"Models": "R9s",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO R9S PLUS CPH1611",
+		"Models": "R9sp",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 3 PRO CPH2009",
+		"Models": "RENO3PRO5G",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 4 4G CPH2113",
+		"Models": "RENO4",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 4 5G CPH2091",
+		"Models": "RENO4_5G",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 4 PRO 5G",
+		"Models": "RENO4PRO5G",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 5 4G CPH2159",
+		"Models": "RENO5",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 5 5G CPH2145",
+		"Models": "RENO5_5G",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 6 CPH2235",
+		"Models": "RENO6",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 6 LITE CPH2365",
+		"Models": "RENO6LITE",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 6 PRO 5G",
+		"Models": "RENO6PRO5G",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 7 CPH2363",
+		"Models": "RENO7",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO 8 CPH2461",
+		"Models": "RENO8",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "OPPO RENO X10 ZOOM",
+		"Models": "RENOX10Z",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME 6 PRO BETA",
+		"Models": "REALME6PRO",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "Realme 6 Pro RMX2061",
+		"Models": "REALME6PRO61",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "Realme 6 Pro RMX2063",
+		"Models": "REALME6PRO63",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "Realme 7 Pro RMX2170",
+		"Models": "REALME7PRO",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME 7I RMX2103",
+		"Models": "REALME7i",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "Realme 8 Pro RMX3081",
+		"Models": "REALME8",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME 9 RMX3521",
+		"Models": "REALME9",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME 9I RMX3491",
+		"Models": "REALME9i",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME C15 RMX2195",
+		"Models": "REALMEC15",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME C17 RMX2101",
+		"Models": "REALMEC17",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME GT 2 PRO",
+		"Models": "REALMEGT2PRO",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME GT NEO2",
+		"Models": "REALMEGTNEO2",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME GT NEO3T",
+		"Models": "REALMEGTNEO3T",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME Q5 PRO",
+		"Models": "REALMEQ5PRO",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME X2 PRO",
+		"Models": "REALMEX2PRO",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME X3 RMX2081",
+		"Models": "REALMEX3",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME X3 SUPER Z",
+		"Models": "REALMEX3SZ",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "REALME X50 5G",
+		"Models": "REALMEX50",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A015A",
+		"Models": "A015A",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A015AZ",
+		"Models": "A015AZ",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A015F",
+		"Models": "A015F",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A015G",
+		"Models": "A015G",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A015M",
+		"Models": "A015M",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A015T",
+		"Models": "A015T",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A015T1",
+		"Models": "A015T1",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A015U",
+		"Models": "A015U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A015U1",
+		"Models": "A015U1",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A015V",
+		"Models": "A015V",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A025F",
+		"Models": "A025F",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A025M",
+		"Models": "A025M",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A025U",
+		"Models": "A025U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A115A",
+		"Models": "A115A",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A115A-ATT",
+		"Models": "A115A-ATT",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A115AZ",
+		"Models": "A115AZ",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A115F",
+		"Models": "A115f",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A115M",
+		"Models": "A115M",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A115U",
+		"Models": "A115U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A115U1",
+		"Models": "A115U1",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A205G",
+		"Models": "A205G",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A52",
+		"Models": "A52",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A526U",
+		"Models": "A526U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A705F",
+		"Models": "A705F",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A716U",
+		"Models": "A716U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-A72",
+		"Models": "A72",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-F711U",
+		"Models": "F711U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-F721U",
+		"Models": "F721U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-F916U",
+		"Models": "F916U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-F926B",
+		"Models": "F926B",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-F936U",
+		"Models": "F936U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G781U",
+		"Models": "G781U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G781V",
+		"Models": "G781V",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G970U",
+		"Models": "G970U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G973U",
+		"Models": "G973U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G975U",
+		"Models": "G975U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G981U",
+		"Models": "G981U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G986U",
+		"Models": "G986U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G988U",
+		"Models": "G988U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G990U",
+		"Models": "G990U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G991U",
+		"Models": "G991U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G996U",
+		"Models": "G996U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-G998U",
+		"Models": "G998U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-J415F",
+		"Models": "J415F",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-J610F",
+		"Models": "J610F",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-M025F",
+		"Models": "M025F",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-M115F",
+		"Models": "M115F",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-N970U",
+		"Models": "N970U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-N975U",
+		"Models": "N975U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-N981U",
+		"Models": "N981U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-N986U",
+		"Models": "N986U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-S115DL",
+		"Models": "S115DL",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-S901E",
+		"Models": "S901E",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-S901U",
+		"Models": "S901U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-S906U",
+		"Models": "S906U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-S908E",
+		"Models": "S908E",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-S908U",
+		"Models": "S908U",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-S911B",
+		"Models": "S911B",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-S916B",
+		"Models": "S916B",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "SAMSUNG SM-S918B",
+		"Models": "S918B",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO 3 PD1955",
+		"Models": "iqoo3",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO 5 PD2024",
+		"Models": "iqoo5",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO 5PRO",
+		"Models": "iqoo5pro",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO 7 PD2049",
+		"Models": "iqoo7",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO 7L PD2055",
+		"Models": "iqoo7lite",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO NEO PD1936",
+		"Models": "iqooneo",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO NEO3 PD1981",
+		"Models": "iqooneo3",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO PD1824",
+		"Models": "iqoo",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO PRO PD1916",
+		"Models": "iqoopro",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO U1 PD2023",
+		"Models": "iqoou1",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "ViVO V20 PD2024",
+		"Models": "iqoo24",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "ViVO V20 PD2025",
+		"Models": "iqoo25",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "ViVO V21e PD2061",
+		"Models": "iqoo61",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO IQOO U1X PD2065",
+		"Models": "iqoou1x",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO NEX PD1805",
+		"Models": "nex",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO NEX2 PD1821F",
+		"Models": "nex2",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO NEX3 PD1924F",
+		"Models": "nex3",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO S1 PD1945GF",
+		"Models": "s1p",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO S1 PRO PD1945CF",
+		"Models": "s1pp",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO S1 PRO PD1945F",
+		"Models": "s1pro",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO S5 PD1932",
+		"Models": "s5",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO S7 PD2020C",
+		"Models": "s7",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO T1 PD2115",
+		"Models": "T1",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V11 PD1806",
+		"Models": "v11",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V11 PRO PD1814F",
+		"Models": "v11pro",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V15 PRO PD1832F",
+		"Models": "v15pro",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V17 PD1948F",
+		"Models": "v17",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V17 PRO PD1931F",
+		"Models": "v17pro",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V19 NEO PD1948",
+		"Models": "v19neo",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V19 PD1969F",
+		"Models": "v19",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V20 2021 PD2067F",
+		"Models": "v20_2021",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V20 PD2039F",
+		"Models": "v20",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V20 PRO PD2020F",
+		"Models": "v20pro",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V20 SE PD2038CF",
+		"Models": "v20se",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V20 SE PD2038F",
+		"Models": "v20se_1",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V21-V21E PD2107F",
+		"Models": "v21_5g",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V5 PLUS PD1624F",
+		"Models": "v5",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V7 PD1718F",
+		"Models": "v7",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V7 PLUS PD1708F",
+		"Models": "v7plus",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V9 PD1730BF",
+		"Models": "y85",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V9 PD1730F",
+		"Models": "v9",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO V9 PRO PD1730CF",
+		"Models": "v9cf",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO X50 5G PD2001F",
+		"Models": "x50",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO X50 PD2006F",
+		"Models": "x50b",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO X50 PRO PD2005F",
+		"Models": "x50pro",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO X60 PRO PD2059F",
+		"Models": "x60pro",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y11-Y12I PD1930F",
+		"Models": "y11",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y11S PD2024",
+		"Models": "y11s",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y12A 2021",
+		"Models": "y12a",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y12S-Y12A PD2060",
+		"Models": "y12s",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y20-Y20S PD2034",
+		"Models": "y20",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y20A PD2060F",
+		"Models": "y20a",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y20T PD2093F",
+		"Models": "y20t",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y21L-Y25 PD1309",
+		"Models": "y21l",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y21T PD2158F",
+		"Models": "y21t",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y27 PD1410F",
+		"Models": "y27",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y31 PD2050F",
+		"Models": "y31",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y31L PD1505F",
+		"Models": "y31l",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y35 PD1502F",
+		"Models": "y35",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y35 UFS PD2225F",
+		"Models": "y352022",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y50 PD1965F",
+		"Models": "y50",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y50T PD2023E",
+		"Models": "y50t",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y51 PD2044F",
+		"Models": "y51",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y51 PD2050F",
+		"Models": "y512021",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y51A-Y51S PD2050",
+		"Models": "y51a",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y53 PD1628CF",
+		"Models": "y533",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y53 PD1628F",
+		"Models": "y53",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y55 PD1613F",
+		"Models": "y55",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y55S PD1613BF",
+		"Models": "y55s",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y65 PD1621BF",
+		"Models": "y65",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y70 PD2038F",
+		"Models": "y70",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y71 PD1731F",
+		"Models": "y71",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y85-V9 YOUTH",
+		"Models": "y85",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y91-93-95 PD1818",
+		"Models": "y91",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Y9S PD1945F",
+		"Models": "y9s",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "VIVO Z1 PRO PD1911F",
+		"Models": "z1pro",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "XIAOMI 12X",
+		"Models": "psyche",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI BLACK SHARK 2",
+		"Models": "skw",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI BLACK SHARK 3",
+		"Models": "kle",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI BLACK SHARK 3 Pro",
+		"Models": "mbu",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI BLACK SHARK 3S",
+		"Models": "kle",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI BLACK SHARK 4",
+		"Models": "penrose",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI BLACK SHARK 4 Pro",
+		"Models": "kaiser",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI BLACK SHARK 4S",
+		"Models": "penrose",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI BLACK SHARK 4S Pro",
+		"Models": "kaiser",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI BLACK SHARK 5",
+		"Models": "patriot",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI BLACK SHARK HELO",
+		"Models": "awm",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 10",
+		"Models": "umi",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 10 LITE",
+		"Models": "toco",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 10 Pro",
+		"Models": "cmi",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 10S",
+		"Models": "thyme",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 10T LITE",
+		"Models": "gauguin",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 10T Pro",
+		"Models": "apollo",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 11T PRO",
+		"Models": "vili",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 11X",
+		"Models": "alioth",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 4I",
+		"Models": "ferarri",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 5",
+		"Models": "gemini",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 5S",
+		"Models": "capricorn",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 5S PLUS",
+		"Models": "natrium",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 5X",
+		"Models": "tiffany",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 6",
+		"Models": "sagit",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 6X",
+		"Models": "wayne",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 8",
+		"Models": "dipper",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 8 EE",
+		"Models": "ursa",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 8 LITE",
+		"Models": "platina",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 8 PRO",
+		"Models": "equeeulus",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 8 SE",
+		"Models": "sirius",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 9",
+		"Models": "cepheus",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI 9T Pro",
+		"Models": "raphael",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI A1",
+		"Models": "tissot",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI A2",
+		"Models": "jasmine",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI A2 LITE",
+		"Models": "daisy",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI K20 PRO",
+		"Models": "raphael",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI MAX 2",
+		"Models": "oxygen",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI MAX 3",
+		"Models": "nitrogen",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI MIX",
+		"Models": "lithium",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI MIX 2",
+		"Models": "chiron",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI MIX 2S",
+		"Models": "polaris",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI MIX 3",
+		"Models": "perseus",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI MIX 35G",
+		"Models": "andromeda",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI NOTE 2",
+		"Models": "scorpio",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI MI NOTE 3",
+		"Models": "jason",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 10C",
+		"Models": "fog",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 3 PRO",
+		"Models": "ido",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 3S/X",
+		"Models": "land",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 4",
+		"Models": "prada",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 4 PRO",
+		"Models": "markw",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 4A",
+		"Models": "rolex",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 4X",
+		"Models": "santoni",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 5",
+		"Models": "rosy",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 5 PLUS",
+		"Models": "vince",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 5A",
+		"Models": "riva",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 5A RU",
+		"Models": "rivaru",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 6 PRO",
+		"Models": "sakuraindia",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 6 PRO",
+		"Models": "sakura",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 7",
+		"Models": "onc",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 7A",
+		"Models": "pine",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 8",
+		"Models": "olive",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 8A",
+		"Models": "olivelite",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 8A DUAL / PRO",
+		"Models": "olivelite",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 9 POWER",
+		"Models": "redmi9power_lime",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI 9T",
+		"Models": "redmi9t_lime",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI K30 Pro",
+		"Models": "lmi",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI K30 Pro Zoom",
+		"Models": "lmi",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI K30S",
+		"Models": "apollo",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI K40",
+		"Models": "alioth",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI K40S",
+		"Models": "munch",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 10",
+		"Models": "mojito",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 11 4G",
+		"Models": "spes",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 11 NFC 4G",
+		"Models": "spesn",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 12 4G",
+		"Models": "tapas",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 12 NFC 4G",
+		"Models": "topaz",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 13 4G",
+		"Models": "shapphire",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 13 NFC 4G",
+		"Models": "shapphiren",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 3",
+		"Models": "kenzo",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 4X",
+		"Models": "mido",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 5 CN / PRO",
+		"Models": "whyred",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 5A",
+		"Models": "ugglite",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 5A PRIME",
+		"Models": "ugg",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "",
+		"New": ""
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 6 PRO",
+		"Models": "tulip",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 7",
+		"Models": "lavender",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 7S",
+		"Models": "lavender",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 8",
+		"Models": "ginkgo",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 8 ID",
+		"Models": "ginkgoid",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 8T",
+		"Models": "willow",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI NOTE 9 4G",
+		"Models": "redminote94g_lime",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI POCO F1",
+		"Models": "beryllium",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI POCO F3",
+		"Models": "alioth",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI POCO F4",
+		"Models": "munch",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI POCO M2",
+		"Models": "gram",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI POCO M3",
+		"Models": "citrus",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI S2",
+		"Models": "ysl",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI Y2",
+		"Models": "y2",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	},
+	{
+		"Devices": "XIAOMI REDMI Y3",
+		"Models": "y3",
+		"Platform": "Qualcomm",
+		"Conn": "EDL",
+		"Auth": "auth",
+		"New": "internal"
+	}
+]
